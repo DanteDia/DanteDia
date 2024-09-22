@@ -32,4 +32,7 @@ Welcome to my GitHub profile. I’m passionate about data analytics, technology,
 - [Email](aroladante@gmail.com)
 
 ## ⚡ Fun fact:
-I have lived and worked in five different countries, building a global perspective and adaptability in fast-paced tech environments.
+- I have lived and worked in five different countries, building a global perspective and adaptability in fast-paced tech environments.
+- Lived in the deep jungle in Brazil for 6 month by myself in a self sustained permaculture space.
+- Also a Ski Instructor
+- At some point where neuroscience, impro and sound engineering was my day to day I get used to and enjoy living at -25 celsius in finland, of course, going back & forth between sauna and natural lake ice baths. 
