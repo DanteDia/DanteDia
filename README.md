@@ -1,38 +1,38 @@
-## Hi there 👋
+Hi, I'm Dante
+Argentinian. Business Intelligence and data automation by trade, generalist by instinct. I went from a Business Economics degree at UTDT to six months living self-sustained in the Brazilian Amazon, to tokenizing 50,000 hectares of native forest, to architecting real-time data pipelines for a bank. The thread connecting all of it: figuring out systems that didn't exist yet, in domains where no one had a runbook.
+These days I build at the seam between enterprise data, AI agents, and on-chain verification.
+Currently working on
 
-# Hi, I'm Dante Arola! 👋
+industriesverified.com — on-chain verification infrastructure for real-world industrial data. Built on GenLayer with FastAPI + Supabase, with a 3D globe mapping Argentina's green economy. Hackathon winner. The most important thing on my desk.
+BIND (Banco Industrial) — architecting end-to-end ETL pipelines and executive dashboards. Turning legacy financial data into real-time intelligence the C-suite can actually act on.
+Multi-agent orchestration — both for personal use and inside the bank. Sub-agent routing, MCP-based tool use, autonomous workflows.
 
-Welcome to my GitHub profile. I’m passionate about data analytics, technology, and creating innovative solutions to optimize business processes. I have extensive experience in blockchain as Project Manager & Business developer, Data analytics, and strategy development.
+Currently learning
 
-## 🔭 I’m currently working as:
-- **Business Intelligence** at BAFA, a financial company in Buenos Aires. I'm leading the migration from an Excel-based system to a modern accounting platform and building real-time dashboards to streamline customer and cash flow management. My goal is to implement efficient data-driven processes to support the company's growth.
-- **Project Manager** at Oxygen, Cleantech Startup tokenizing and monetizing native forest in Argentina. 
+The Claude Agent SDK and MCP — building production agent systems beyond chat
+Smart-contract verification on GenLayer, where consensus is over text rather than state
+Voice-first interfaces — agents that interview, listen, summarize, and act
 
-## 🌱 I’m currently learning:
-- Advanced data analytics techniques for real-time decision making.
-- Social media sentiment analysis for Private Fund Management
-- Data analytics in Blockchain Industry.
+Looking to collaborate on
 
-## 👯 I’m looking to collaborate on:
-- Data analytics projects that focus on blockchain technology, fintech or cleantech startups.
-- Business intelligence solutions that drive operational efficiency and financial transparency.
+Anything that uses LLMs to displace manual spreadsheet work inside an enterprise
+Verifiable AI x real-world data: supply chains, ESG, carbon, industrial telemetry
+Voice-first interfaces for knowledge capture inside companies
+Latin American startups going global
 
-## 🤔 I’m looking for help with:
-- Expanding my knowledge of best practices in data visualization and business intelligence in large-scale environments.
-- Opportunities to work with cutting-edge technologies and teams in the blockchain or fintech sectors.
+Looking for help with
 
-## 💬 Ask me about:
-- Data analytics for financial services.
-- Implementing real-time dashboards and migrating from legacy systems to cloud-based platforms.
-- Blockchain strategies for startups and emerging markets.
+Distribution — getting product in front of buyers I don't already know
+Back-end scale — turning my prototypes into systems that don't fall over at 100x
 
-## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/dante-arola-81456712a/)
-- [Web](aroladante.com/home)
-- [Email](aroladante@gmail.com)
+Ask me about
 
-## ⚡ Fun fact:
-- I have lived and worked in five different countries, building a global perspective and adaptability in fast-paced tech environments.
-- Lived in the deep jungle in Brazil for 6 month by myself in a self sustained permaculture space.
-- Also a Ski Instructor
-- At some point where neuroscience, impro and sound engineering was my day to day I get used to and enjoy living at -25 celsius in finland, of course, going back & forth between sauna and natural lake ice baths. 
+Building real-time ETL on top of a bank's legacy stack without breaking it
+Tokenizing physical assets (forest carbon credits, in my case) and the bridge between DeFi and real-world MRV
+Permaculture, jungle survival, and what six months without internet teaches you about systems
+Living and working across Argentina, Brazil, Finland, the UK, and the US
+
+How to reach me
+aroladante@gmail.com · dantearola.com · LinkedIn
+Fun fact
+The most useful thing I learned in the Amazon was the same thing I keep learning at the bank: most systems break in the gaps no one bothered to document. Most of my work is mapping those gaps and writing the runbook.
